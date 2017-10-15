@@ -9,7 +9,8 @@ This page is in construction but a few links are already available:
 ## Hardware
 [https://upverter.com/HiveTracker](https://upverter.com/HiveTracker)
 
-![1st PCB Image](https://lh3.googleusercontent.com/VUzKZUTzMZx3JfZpcFLnm5LmlM-ChOylAcLgCLGoy4sNAx7ccgSrDOWjXV-vrOj0Noerv9sqyN4zHj8jvw1AEcg2Xq97f_dO97Pmk_zsJlGV6Qe2uJr2zJNJRPeTC2gjampFz7VDsDhQZvVKTPNzXzcyXc_t3IkV1R6Nf_R28vXNk9bhj2KMGr-ewRe9sViffW9yJ2Ngli91bTlZVGVocy9n0PPos81Ow9MuTt5s2UW-fOhviwhK8jX2KwJkfiA85y6iBgqVXBkIzQAtUwpbQb71sVlfupt1Y_Dye59AIQ0CCFYRbNc8wC3_HV7QhIizp1YMzYZTP3oQi-cKC7uaqllp0viJFQRCaSIVnBjrl7BSneobeLLHZ-_-B8TtKBFN-VmV3_qw7dP5W4S8TLQ3dRyyh-PMlLaHpC6nA_ocJ6-QeZFJkovX5w5AGWyMtHEoaTrF6Ry7UYqbhby3X52mhOiuFc97O-oofjtVF4Pkmg3iFnWIDkrsGn9yPpNyvy7nOGaXD3mef98FizytZCfeAbmdnhfXTvxwIdNoUcdKqQWLVzOfeSWdSe_OwdpMXFHMxsdZ96lgQvWHD90xtgJX6oD3lwhX6fUb8Tg6IBM0vac=w1024-h729-no)
+![1st PCB](pics/animation.gif)
+
 
 ## Firmware / Software
 [https://github.com/HiveTracker](https://github.com/HiveTracker)
