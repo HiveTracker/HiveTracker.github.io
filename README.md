@@ -16,6 +16,14 @@ This page is in construction but a few links are already available:
 ## Firmware / Software
 [https://github.com/HiveTracker](https://github.com/HiveTracker)
 
+## Publications
+[AH18](http://sigah.org/AH2018) -
+_HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning._
+<br> Darío R. Quiñones, Gonçalo Lopes, Danbee Kim, Cédric Honnet, David Moratal, and Adam Kampf
+<br> [DOI](https://doi.org/10.1145/3174910.3174935) -
+[Open Access](files/AH18-HiveTracker.pdf)
+
+
 ## Contact
 [https://groups.google.com/forum/#!forum/hivetracker](https://groups.google.com/forum/#!forum/hivetracker)
 
