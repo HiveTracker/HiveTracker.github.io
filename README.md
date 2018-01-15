@@ -9,8 +9,8 @@ This page is in construction but a few links are already available:
 ## Hardware
 [https://upverter.com/HiveTracker](https://upverter.com/HiveTracker)
 
-![1st PCB](pics/animation.gif)
-![1st prototype](pics/prototype.jpg)
+![1st PCB](files/animation.gif)
+![1st prototype](files/prototype.jpg)
 
 
 ## Firmware / Software
