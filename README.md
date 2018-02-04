@@ -28,3 +28,5 @@ _HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D posi
 ## Contact
 [https://groups.google.com/forum/#!forum/hivetracker](https://groups.google.com/forum/#!forum/hivetracker)
 
+[@hive_tracker](https://twitter.com/hive_tracker)
+
