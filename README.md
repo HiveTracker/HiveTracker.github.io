@@ -10,7 +10,7 @@ _______________________________________________________________________________
 ## Hardware
 [https://upverter.com/HiveTracker](https://upverter.com/HiveTracker)
 
-![1st PCB](files/animation.gif)
+![1st PCB](files/hardware.png)
 
 
 _______________________________________________________________________________
