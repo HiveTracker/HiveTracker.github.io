@@ -7,18 +7,16 @@ This project is a work in progress, and this page is still in construction, but 
 _______________________________________________________________________________
 ## Firmware / Software
 
-![demo](files/animation.gif)
-
 Our repos include several developments and test bricks, from benchmark to web Bluetooth proof of concepts,
 we try to document each step of our experimentations:
 
 [https://github.com/HiveTracker](https://github.com/HiveTracker)
 
+![demo](files/animation.gif)
+
 
 _______________________________________________________________________________
 ## Publication
-
-![1st prototype](files/prototype.jpg)
 
 [AH18](http://sigah.org/AH2018) -
 _HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning._
@@ -26,13 +24,15 @@ _HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D posi
 <br> [DOI](https://doi.org/10.1145/3174910.3174935) -
 [Open Access](files/AH18-HiveTracker.pdf)
 
+![1st prototype](files/prototype.jpg)
+
 
 _______________________________________________________________________________
 ## Hardware
 
-![1st PCB](files/hardware.png)
-
 [https://upverter.com/HiveTracker](https://upverter.com/HiveTracker)
+
+![1st PCB](files/hardware.png)
 
 
 _______________________________________________________________________________
