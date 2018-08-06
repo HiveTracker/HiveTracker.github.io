@@ -4,7 +4,12 @@ The entire project is open source, all the materials can be found below.
 
 ![1st prototype](files/prototype.jpg)
 
-This project is a work in progress, and this page is still in construction, but a few links are already available:
+This project is a work in progress, and this page is still in construction, but the main links are already available below.
+
+_______________________________________________________________________________
+## Demo
+![demo](https://cdn.hackaday.io/images/original/1615601533556741244.gif)
+
 
 _______________________________________________________________________________
 ## Hardware
