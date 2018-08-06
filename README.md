@@ -7,7 +7,7 @@ This project is a work in progress, and this page is still in construction, but 
 _______________________________________________________________________________
 ## Firmware / Software
 
-![demo](https://cdn.hackaday.io/images/original/1615601533556741244.gif)
+![demo](files/animation.gif)
 
 Our repos include several developments and test bricks, from benchmark to web Bluetooth proof of concepts,
 we try to document each step of our experimentations:
