@@ -55,7 +55,7 @@ _______________________________________________________________________________
 
 - Dev logs: [Hack A Day](https://hackaday.io/project/160182-hivetracker)
 
-- Forum: [https://groups.google.com/forum/#!forum/hivetracker](https://groups.google.com/forum/#!forum/hivetracker)
+- Mailing list: [https://groups.google.com/forum/#!forum/hivetracker](https://groups.google.com/forum/#!forum/hivetracker)
 
 - Team email: [hivetracker+owners@googlegroups.com](mailto:hivetracker+owners@googlegroups.com)
 
