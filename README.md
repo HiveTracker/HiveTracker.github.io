@@ -1,3 +1,5 @@
+## Tiny & affordable system for scalable & accurate 3D positioning
+
 This project is about a miniaturization of the Vive Tracker by HTC.
 It allows sub-millimetric 3d positioning at scale, and embeds a 9DoF IMU with sensor fusion.
 The entire project is open source, all the materials can be found below.
