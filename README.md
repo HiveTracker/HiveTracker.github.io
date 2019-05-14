@@ -42,7 +42,7 @@ we try to document each step of our experimentations:
 _______________________________________________________________________________
 ## Hardware
 
-[https://upverter.com/HiveTracker](https://upverter.com/HiveTracker)
+[https://upverter.com/profile/hivetracker](https://upverter.com/profile/hivetracker)
 
 ![1st PCB](files/hardware.png)
 
