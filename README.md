@@ -16,19 +16,28 @@ Awards:
 
 - [HaD Square Inch Contest: best project prize](https://hackaday.com/2018/10/18/packing-a-lot-into-a-little-pcb-winners-of-the-square-inch-project/)
 
-Articles:
-
-- Hack A Day : ["This is your Solution for Open Source motion tracking"](https://hackaday.com/2018/09/04/this-is-your-solution-for-open-source-motion-tracking)
-
-- Hackster: ["Sub-Millimeter 3D Positioning with HiveTracker"](https://blog.hackster.io/sub-millimeter-3d-positioning-with-hivetracker-ed213b1ea0c1)
 
 Research:
+
+[UbiComp19](http://ubicomp.org/ubicomp2019) -
+_HiveTracker: 3d Positioning for Ubiquitous Embedded Systems._
+<br> Cedric Honnet, Gonçalo Lopes
+<br> [DOI](https://doi.org/10.1145/3341162.3349295) -
+[Open Access](files/UbiComp19-HiveTracker.pdf)
 
 [AH18](http://sigah.org/AH2018) -
 _HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning._
 <br> Darío R. Quiñones, Gonçalo Lopes, Danbee Kim, Cédric Honnet, David Moratal, and Adam Kampf
 <br> [DOI](https://doi.org/10.1145/3174910.3174935) -
 [Open Access](files/AH18-HiveTracker.pdf)
+
+
+Articles:
+
+- Hack A Day : ["This is your Solution for Open Source motion tracking"](https://hackaday.com/2018/09/04/this-is-your-solution-for-open-source-motion-tracking)
+
+- Hackster: ["Sub-Millimeter 3D Positioning with HiveTracker"](https://blog.hackster.io/sub-millimeter-3d-positioning-with-hivetracker-ed213b1ea0c1)
+
 
 Documentation:
 
