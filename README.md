@@ -16,6 +16,8 @@ Awards:
 
 - [HaD Square Inch Contest: best project prize](https://hackaday.com/2018/10/18/packing-a-lot-into-a-little-pcb-winners-of-the-square-inch-project/)
 
+- [HaD Connected World Contest: best project prize](https://hackaday.com/2019/10/09/connected-world-contest-four-top-winners-announced/)
+
 
 Research:
 
