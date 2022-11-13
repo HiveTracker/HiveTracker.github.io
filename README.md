@@ -73,5 +73,18 @@ _______________________________________________________________________________
 
 - Mailing list: [https://groups.google.com/forum/#!forum/hivetracker](https://groups.google.com/forum/#!forum/hivetracker)
 
-- Team email: [hivetracker+owners@googlegroups.com](mailto:hivetracker+owners@googlegroups.com)
 
+_______________________________________________________________________________
+## Other Ressources
+
+The HiveTracker project was for the LighHouse V1.0 and it's not maintained, but great options appeared since the V2.0:
+
+- Hardware:
+    - https://bitcraze.io/products/lighthouse-positioning-deck/
+    - https://tundra-labs.com/
+
+- Software:
+    - https://github.com/cntools/libsurvive/
+    - https://discord.gg/fuJ2XBUrAt
+
+Enjoy!
