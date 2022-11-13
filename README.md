@@ -77,14 +77,14 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 ## Other Ressources
 
-The HiveTracker project was for the LighHouse V1.0 and it's not maintained, but great options appeared since the V2.0:
+The HiveTracker project was for the LighHouse V1.0 and it's not maintained anymore, but great options appeared since the V2.0:
 
 - Hardware:
-    - https://bitcraze.io/products/lighthouse-positioning-deck/
-    - https://tundra-labs.com/
+    - [bitcraze.io/products/lighthouse-positioning-deck](https://bitcraze.io/products/lighthouse-positioning-deck/)
+    - [tundra-labs.com](https://tundra-labs.com/)
 
 - Software:
-    - https://github.com/cntools/libsurvive/
-    - https://discord.gg/fuJ2XBUrAt
+    - [github.com/cntools/libsurvive](https://github.com/cntools/libsurvive/)
+    - [https://discord.gg/fuJ2XBUrAt](https://discord.gg/fuJ2XBUrAt)
 
 Enjoy!
